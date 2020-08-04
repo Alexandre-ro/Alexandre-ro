@@ -1,16 +1,20 @@
-### Hi there 👋
+Analista de sistemas Jr.
 
-<!--
-**Alexandre-ro/Alexandre-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conhecimentos em:
+- Linguagens de Programação Backend: PHP e C#
+- Frameworks ZendFramework, Laravel, Asp .Net Core.
 
-Here are some ideas to get you started:
+- FontEnd: HTML, CSS, JavaScript, jQuery e Bootstrap.	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Controle de versão: Git
+
+- Banco de Dados: PostgreSql  e Mysql.
+
+- Análise de Sistemas: Levantamento de Requisitos.
+  Modelagem de Banco de Dados.
+ Desenvolvimento de Aplicações utilizando as linguagens PHP e C# seguindo a arquitetura MVC .
+ 
+ Técnologias que estou estudando no momento:
+   - React 
+   - c#
+   
