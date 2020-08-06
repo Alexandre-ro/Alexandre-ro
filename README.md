@@ -18,3 +18,5 @@ Conhecimentos em:
    - React 
    - c#
    
+   Tenho estudado também Padrões de Projeto.
+   
