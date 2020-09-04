@@ -18,5 +18,5 @@ Conhecimentos em:
    - React 
    - c#
    
-   Tenho estudado também Padrões de Projeto.
+   Tenho estudado também Padrões de Projeto e Engenharia de Software.
    
