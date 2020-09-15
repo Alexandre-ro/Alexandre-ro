@@ -1,4 +1,4 @@
-Analista de sistemas Jr.
+Analista de sistemas.
 
 Conhecimentos em:
 - Linguagens de Programação Backend: PHP e C#
