@@ -1,4 +1,4 @@
-Analista de sistemas.
+Analista de sistemas/ Desenvolvedor.
 
 Conhecimentos em:
 - Linguagens de Programação Backend: PHP e C#
