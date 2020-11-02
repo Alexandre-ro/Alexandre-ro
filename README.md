@@ -17,7 +17,5 @@ Desenvolvimento de Aplicações utilizando as linguagens PHP e C#.
 
 Tecnologias que estou estudando no momento:
 
-ES6
-React
-.NET
+ES6, React, .NET
    
