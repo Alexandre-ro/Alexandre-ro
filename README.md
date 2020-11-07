@@ -17,3 +17,6 @@ Docker, Git, MySql, PostgreSQL.
 
 .NET, PHP, Docker, Angular.
    
+🚩Arquitetura que estou estudando:
+
+Clean Architecture
