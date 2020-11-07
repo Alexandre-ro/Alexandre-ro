@@ -15,5 +15,5 @@ Docker, Git, MySql, PostgreSQL.
 
 🚩Tecnologias que estou estudando no momento:
 
-Angular, .NET, Docker.
+Angular, .NET, PHP e Docker.
    
