@@ -1,21 +1,19 @@
+📌 Welcome!
+
 Sou graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente trabalho como Programador web em Juiz de Fora Mg.
 Sendo responsável por adicionar novas funcionalidades aos sistemas existentes, correção de bugs, refatoração de código, aplicando as melhores práticas de desenvolvimento.
 
-Conhecimentos em:
-- Linguagens de Programação Back-end: PHP e C#
-- Frameworks ZendFramework, Laravel, Asp .Net Core.
+🚩 Technical skills
 
-- Front-end: HTML, CSS, JavaScript, jQuery, Bootstrap, React.
+PHP (ZendFramework, Laravel), c# & .NET.
 
-- Controle de versão: Git
+JavaScript, jQuery.
 
-- Banco de Dados: PostgreSql e Mysql.
+Html5, CSS3(Boostrap)
 
-- Análise de Sistemas: Levantamento de Requisitos.
-Modelagem de Banco de Dados.
-Desenvolvimento de Aplicações utilizando as linguagens PHP e C#.
+Docker, Git, MySql, PostgreSQL.
 
-Tecnologias que estou estudando no momento:
+🚩Tecnologias que estou estudando no momento:
 
-ES6, React, .NET
+Angular, .NET, Docker.
    
