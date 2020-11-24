@@ -10,8 +10,7 @@ PHP (ZendFramework, Laravel), c# & .NET.
 JavaScript, jQuery.
 
 Html5, CSS3(Boostrap)
-
-Docker, Git, MySql, PostgreSQL.
+Git, MySql, PostgreSQL.
 
 🚩Tecnologias que estou estudando no momento:
 
