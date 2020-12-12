@@ -14,8 +14,4 @@ Git, MySql, PostgreSQL.
 
 🚩Tecnologias que estou estudando no momento:
 
-.NET, PHP, Docker, Angular.
-   
-🚩Arquitetura que estou estudando:
-
-Clean Architecture
+.NET, PHP, Docker, Elasticsearch.
