@@ -12,6 +12,4 @@ JavaScript, jQuery.
 Html5, CSS3(Boostrap)
 Git, MySql, PostgreSQL.
 
-🚩Tecnologias que estou estudando no momento:
 
-.NET, PHP, Docker, Elasticsearch.
