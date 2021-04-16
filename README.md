@@ -4,13 +4,13 @@ Graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmen
 Sendo responsável por adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis.
 
 🚩 Technical skills Backend
-PHP (ZendFramework, Laravel).
-C# & .NET.
-Plsql.
+PHP (ZendFramework, Laravel),
+C# & .NET,
+Plsql,
 Powerbuilder.
 
 🚩 Technical skills Frontend
-JavaScript, jQuery.
+JavaScript, jQuery,
 Html5, CSS3(Boostrap).
 
 🚩 Technical skills Database
