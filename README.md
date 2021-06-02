@@ -1,7 +1,7 @@
 📌 Welcome!
 
-Graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente trabalho como Programador web em Juiz de Fora Mg.
-Sendo responsável por adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis.
+Sou Graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente trabalho como Analista de Sistemas.
+Sendo responsável por fazer levantamento de requisitos, documentar os requisitos, adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis.
 
 🚩 Technical skills Backend
 PHP (ZendFramework, Laravel),
