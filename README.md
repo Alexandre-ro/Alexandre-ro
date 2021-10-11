@@ -1,6 +1,7 @@
 📌 Welcome!
 
-Sou Graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente trabalho como Analista de Sistemas.
+Pós Graduando em Desenvolvimento de Software.
+Graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente trabalho como Analista de Sistemas.
 Sendo responsável por fazer levantamento de requisitos, documentar os requisitos, adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis, etc.
 
 🚩 Technical skills Backend
