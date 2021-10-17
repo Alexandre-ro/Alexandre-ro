@@ -11,7 +11,7 @@ Plsql,
 Powerbuilder.
 
 🚩 Technical skills Frontend
-JavaScript, jQuery,
+JavaScript, jQuery, React
 Html5, CSS3(Boostrap).
 
 🚩 Technical skills Database
