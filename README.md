@@ -3,7 +3,7 @@
 Pós Graduando em Desenvolvimento de Software.<br>
 Graduado em Sistemas de Informação pela Universidade Estácio de Sá. <br>
 Atualmente trabalho como Analista de Sistemas.<br>
-Sendo responsável por fazer levantamento de requisitos, documentar os requisitos, adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis, etc.
+Sendo responsável por fazer levantamento de requisitos, documentação de requisitos, adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis, etc.
 
 🚩 Technical skills Backend
 PHP (ZendFramework, Laravel),
