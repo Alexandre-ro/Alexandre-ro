@@ -13,7 +13,7 @@ Powerbuilder.
 
 🚩 Technical skills Frontend
 JavaScript, jQuery, React
-Html5, CSS3(Boostrap).
+Html5, CSS3(Bootstrap).
 
 🚩 Technical skills Database
 MySql, PostgreSQL & Oracle.
