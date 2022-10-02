@@ -6,9 +6,8 @@ Atualmente trabalho como Analista de Sistemas.<br>
 Sendo responsável por fazer levantamento de requisitos, documentação de requisitos, adicionar novas funcionalidades, correção de bugs e refatoração de código, integração com Apis, etc.
 
 🚩 Technical skills Backend
-PHP (ZendFramework, Laravel),
 C# & .NET,
-Plsql,
+PHP (ZendFramework, Laravel),
 Powerbuilder.
 
 🚩 Technical skills Frontend
