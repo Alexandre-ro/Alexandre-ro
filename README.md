@@ -17,7 +17,11 @@ Html5, CSS3(Bootstrap).
 MySql, PostgreSQL & Oracle.
 
 
+
+
+
 📌 Welcome
+<br>
 Post Graduate in Software Development.<br>
 Graduated in Information Systems from Estácio de Sá University. <br>
 I currently work as a Systems Analyst.<br>
