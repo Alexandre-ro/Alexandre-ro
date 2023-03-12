@@ -1,41 +1,16 @@
-📌 Bem vindo!
+Olá, seja bem-vindo (a)!
 
-Pós Graduado em Desenvolvimento de Software.<br>
-Graduado em Sistemas de Informação pela Universidade Estácio de Sá. <br>
-Atualmente trabalho como Analista de Sistemas.<br>
+Graduado em Sistemas de Informação, Pós-Graduação em Desenvolvimento de Software, e com conhecimentos na área de TI, atuando no desenvolvimento de projetos de sistemas, planejamento, avaliação, execução e identificação das soluções de problemas técnicos e de negócio.
 
-🚩 skills técnicas Backend
-C# & .NET,(MVC, APIS).
-PHP (ZendFramework, Laravel),
-Powerbuilder.
+- Habilidades de comunicação interpessoal, percepção crítica e analítica para a melhoria em processos de gerenciamento de sistemas tecnológicos.
 
-🚩 skills técnicas Frontend
-JavaScript, jQuery, React
-Html5, CSS3(Bootstrap).
+Algumas tecnologias e ferramentas com as quais tenho experiência:
+C# | .NET | PHP | Powerbuilder | Oracle | Postgres | MySql | ElasticSearch | Entity Framework | Docker | Azure DevOps | Javascript | React | Bootstrap | JQuery.
 
-🚩 skills em banco de dados
-MySql, PostgreSQL & Oracle.
+Certificações:
+📍 Microsoft Certified Azure Fundamentals - AZ900.
+📍 Scrum Foundation Professional Certificate - SFPC.
 
+📧 alexandre.ri.oliveira@gmail.com 
 
-
-
-
-📌 Welcome
-<br>
-Post Graduate in Software Development.<br>
-Graduated in Information Systems from Estácio de Sá University. <br>
-I currently work as a Systems Analyst.<br>
-
-🚩 Backend technical skills
-C# and .NET,(MVC, APIS).
-PHP (ZendFramework, Laravel),
-Powerbuilder.
-
-🚩 Frontend technical skills
-JavaScript, jQuery, React
-Html5, CSS3 (Bootstrap).
-
-🚩 database skills
-MySql, PostgreSQL and Oracle.
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandre-ribeiro-oliveira/) 
+Obrigado pela visita! ☺
