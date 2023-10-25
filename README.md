@@ -9,7 +9,7 @@ Certificações:
 📍 Microsoft Certified Azure Fundamentals - AZ900.
 📍 Scrum Foundation Professional Certificate - SFPC.
 
-Likedin: https://www.linkedin.com/in/alexandre-ribeiro-oliveira/ <br><br>
+Linkedin: https://www.linkedin.com/in/alexandre-ribeiro-oliveira/ <br><br>
 📧 alexandre.ri.oliveira@gmail.com 
 
 Obrigado pela visita! ☺
